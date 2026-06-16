@@ -4,7 +4,7 @@
 O objetivo deste projeto é utilizar o NotebookLM para realizar uma curadoria técnica sobre o OWASP Top 10, focando em entender as vulnerabilidades mais críticas da web e suas mitigações para ambientes de desenvolvimento.
 
 ## 2. Curadoria de Fontes
-- Fonte: [OWASP Top 10:2021 PDF](https://owasp.org/www-project-top-ten/)
+- Fonte: [OWASP Top 10:2025 PDF](https://owasp.org/www-project-top-ten/)
 
 ## 3. Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
 Durante a execução do projeto, o principal desafio foi transitar de uma abordagem teórica para uma prática. Inicialmente, as respostas da IA eram muito conceituais. Para resolver isso, apliquei técnicas de *Prompt Engineering*:
